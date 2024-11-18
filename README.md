@@ -2,7 +2,7 @@
 
 1. Склонируйте репозиторий на локальный компьютер:
 
-   `git clone https://github.com/andrei-asipik/test-senamasoft-backend.git`
+   `git clone https://github.com/andrei-asipik/test-senama-backend.git`
 
    `cd repository`
 
