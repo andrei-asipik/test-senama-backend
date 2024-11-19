@@ -2,10 +2,12 @@
   "name": "senama-test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "vercel-build": "echo hello"
   },
   "author": "andrei",
   "license": "ISC",
